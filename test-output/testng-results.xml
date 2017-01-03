@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="101185" started-at="2016-12-23T18:25:09Z" finished-at="2016-12-23T18:26:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="101185" started-at="2016-12-23T18:25:09Z" finished-at="2016-12-23T18:26:50Z">
+      <class name="VerizonAutomation.Verizonautomation.Verifyverizonmodules">
+        <test-method status="PASS" signature="verifymodule()[pri:0, instance:VerizonAutomation.Verizonautomation.Verifyverizonmodules@14229fa7]" name="verifymodule" duration-ms="100863" started-at="2016-12-23T13:25:09Z" finished-at="2016-12-23T13:26:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymodule -->
+      </class> <!-- VerizonAutomation.Verizonautomation.Verifyverizonmodules -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
